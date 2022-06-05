@@ -1,9 +1,11 @@
 #cabecera {
-	text-align: center;
-	border: 10px solid;
-	font-family: arial;
-	padding: 5px;
-	color: orange;
+	 box-shadow: 5px -3px 14px 1px rgba(43,9,237,0.78);
+	 background-color: #1cb0e6;
+	 color: white;
+	 text-shadow: 1px 1px 2px black;
+	 border-radius: 51px 0px 51px 0px;
+	 border: 4px double #000000;
+	 font-size: 20px;
 }
 
 #articulo {
